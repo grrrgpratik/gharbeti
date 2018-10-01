@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "babel": "^6.23.0",
+    "expo": "^26.0.0",
+    "firebase": "^4.12.1",
+    "i": "^0.3.6",
+    "install": "^0.11.0",
+    "native-base": "^2.4.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
+    "react-native-app-intro-slider": "^0.2.4",
+    "react-native-elements": "^0.19.0",
+    "react-native-form-generator": "^0.9.9",
+    "react-native-phone-call": "^1.0.6",
+    "react-native-step-indicator": "0.0.8",
+    "react-native-tag-select": "^2.0.0",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^1.5.9",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "rn-viewpager": "^1.2.9",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
